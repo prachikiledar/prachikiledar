@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Prachi Kiledar
 
-<!--
-**prachikiledar/prachikiledar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2026 Graduate | Python Developer | Problem Solver  
+💻 Practicing Data Structures & Algorithms using Python  
+🌱 Currently working on Python Projects and preparing for Deutsche Bank  
+📈 CodeChef | LeetCode | GitHub Contributions  
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/prachi-kiledar-p33851200)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- Python 🐍
+- VS Code, Git & GitHub
+- Basics of C++, HTML, CSS
+
+---
+
+### 📚 Learning Goals 2025
+- Master Python DSA
+- Build 5+ Real-World Projects
+- Crack Off-Campus Job Interviews
+
+---
+
+### 🔗 Profiles
+- 💼 [LinkedIn](https://www.linkedin.com/in/prachi-kiledar-p33851200)
+- 🧠 [LeetCode](https://leetcode.com/u/PvUfXjZwFU/)
+- 🤖 [CodeChef](https://www.codechef.com/users/prachikiledar)
